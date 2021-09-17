@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo!");
+            MessageBox.Show("Ningún obstáculo es demasiado grande cuando confiamos en Dios.");
         }
     }
 }
